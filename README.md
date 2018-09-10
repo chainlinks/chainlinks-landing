@@ -1,1 +1,2 @@
-# chainlinks-landing
+# Chainlinks
+Simplifying Blockchain Authentication.
